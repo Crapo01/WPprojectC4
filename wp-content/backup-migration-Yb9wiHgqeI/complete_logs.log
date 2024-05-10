@@ -1,0 +1,469 @@
+[2024-05-06 19:58:36] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 19:58:36] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 19:58:36] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 19:58:36] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 19:58:56] [LOG] Restoring site...
+[2024-05-06 20:00:34] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:00:34] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:00:34] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:00:34] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:00:40] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:00:40] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:00:40] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:00:40] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:00:41] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:00:41] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:00:41] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:00:41] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:00:43] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:00:43] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:00:43] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:00:43] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:00:49] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:00:49] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:00:49] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:00:49] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:01:16] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:01:16] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:01:16] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:01:16] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:01:23] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:01:23] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:01:23] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:01:23] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:01:24] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:01:24] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:01:24] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:01:24] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:01:39] [LOG] Site restored...
+[2024-05-06 20:01:39] [LOG] Process (migration) finished successfully via ajax.php
+[2024-05-06 20:01:39] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:01:39] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-06 20:01:39] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-06 20:01:39] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-06 20:02:50] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-06 20:02:50] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-06 20:02:50] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-06 20:02:50] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-07 13:58:43] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 13:58:43] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-07 13:58:43] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-07 13:58:43] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-07 13:59:43] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 13:59:43] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 13:59:43] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 13:59:43] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 13:59:45] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 13:59:45] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 13:59:45] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 13:59:45] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 14:00:13] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:00:13] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 14:00:13] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 14:00:13] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 14:00:52] [LOG] Restoring site...
+[2024-05-07 14:02:14] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:02:14] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 14:02:14] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 14:02:14] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 14:02:19] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:02:19] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 14:02:19] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 14:02:19] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 14:02:22] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:02:22] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 14:02:22] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 14:02:22] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 14:02:23] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:02:23] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 14:02:23] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 14:02:23] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 14:02:32] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:02:32] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 14:02:32] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 14:02:32] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-07 14:04:37] [LOG] Site restored...
+[2024-05-07 14:04:37] [LOG] Process (migration) finished successfully via ajax.php
+[2024-05-07 14:05:32] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:05:32] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-07 14:05:32] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-07 14:05:32] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-07 14:15:53] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-07 14:15:53] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-07 14:15:53] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-07 14:15:53] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:21:13] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:21:13] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-08 19:21:13] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-08 19:21:13] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-08 19:22:13] [LOG] Création de la sauvegarde
+[2024-05-08 19:22:13] [LOG] Trouvé(s) 6357 fichiers à sauvegarder.
+[2024-05-08 19:22:16] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:16] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:16] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:16] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:23] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:23] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:23] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:23] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:25] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:25] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:25] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:25] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:29] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:29] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:29] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:29] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:36] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:36] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:36] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:36] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:41] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:41] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:41] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:41] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:45] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:45] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:45] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:45] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:51] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:51] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:51] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:51] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:22:55] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:22:55] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:22:55] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:22:55] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:23:03] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:23:03] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:23:03] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:23:03] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:23:12] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:23:12] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:23:12] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:23:12] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:23:23] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-08 19:23:23] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:23:23] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-08 19:23:23] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-08 19:23:42] [LOG] Nouvelle sauvegarde créée avec le nom suivant :BM_2024-05-08_19_21_37_fFZL8DxoU6dwlQgC.zip
+[2024-05-08 19:23:42] [LOG] Process (backup) finished successfully via ajax.php
+[2024-05-08 19:23:47] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:23:47] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:23:47] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:23:47] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:25:30] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:25:30] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:25:30] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:25:30] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:26:03] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:26:03] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:26:03] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:26:03] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:31:26] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:31:26] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:31:26] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:31:26] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:35:32] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:35:32] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:35:32] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:35:32] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:38:09] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:38:09] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:38:09] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:38:09] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:38:53] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:38:53] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:38:53] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:38:53] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:39:27] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:39:27] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:39:27] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:39:27] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 19:45:25] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 19:45:25] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 19:45:25] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 19:45:25] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:03:26] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:03:26] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:03:26] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:03:26] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:04:21] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:04:21] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:04:21] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:04:21] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:13:08] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:13:08] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:13:08] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:13:08] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:19:53] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:19:53] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:19:53] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:19:53] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:24:09] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:24:09] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:24:09] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:24:09] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:24:20] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:24:20] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:24:20] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:24:20] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:24:31] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:24:31] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:24:31] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:24:31] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:24:42] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:24:42] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:24:42] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:24:42] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:24:53] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:24:53] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:24:53] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:24:53] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:25:05] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:25:05] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:25:05] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:25:05] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:25:17] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:25:17] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:25:17] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:25:17] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:25:28] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:25:28] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:25:28] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:25:28] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:25:39] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:25:39] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:25:39] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:25:39] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:25:50] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:25:50] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:25:50] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:25:50] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:26:01] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:26:01] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:26:01] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:26:01] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:26:23] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:26:23] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:26:23] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:26:23] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-08 20:27:19] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-08 20:27:19] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-08 20:27:19] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-08 20:27:19] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:09:36] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:09:36] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-09 10:09:36] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-09 10:09:36] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-09 10:13:31] [LOG] Restoring site...
+[2024-05-09 10:13:31] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:13:31] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:13:31] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:13:31] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:07] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:07] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:07] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:07] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:09] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:09] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:09] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:09] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:11] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:11] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:11] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:11] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:16] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:16] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:16] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:16] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:20] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:20] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:20] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:20] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:20] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:20] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:20] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:20] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:21] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:21] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:21] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:21] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:15:33] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:15:33] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:15:33] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:15:33] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:16:22] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:16:22] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:16:22] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:16:22] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:16:36] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:16:36] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:16:36] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:16:36] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:16:37] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:16:37] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:16:37] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:16:37] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:16:38] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:16:38] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:16:38] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:16:38] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:16:40] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:16:40] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:16:40] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:16:40] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:16:41] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:16:41] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:16:41] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:16:41] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:17:09] [LOG] Site restored...
+[2024-05-09 10:17:09] [LOG] Process (migration) finished successfully via ajax.php
+[2024-05-09 10:17:25] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:17:25] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:17:25] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:17:25] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:17:38] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:17:38] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-09 10:17:38] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-09 10:17:38] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-09 10:18:10] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:18:10] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:18:10] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:18:10] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 10:19:17] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 10:19:17] [ERROR] Message d’erreur : PHP Request Shutdown: Use of mbstring.http_input is deprecated
+[2024-05-09 10:19:17] [ERROR] Fichier/ligne d’erreur : Unknown|0
+[2024-05-09 10:19:17] [ERROR] Gestionnaire d'erreurs: init#01|8192
+[2024-05-09 17:53:53] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 17:53:53] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-09 17:53:53] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-09 17:53:53] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-09 17:54:45] [LOG] Création de la sauvegarde
+[2024-05-09 17:54:45] [LOG] Trouvé(s) 7068 fichiers à sauvegarder.
+[2024-05-09 17:54:48] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:54:48] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:54:48] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:54:48] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:54:55] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:54:55] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:54:55] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:54:55] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:54:57] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:54:57] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:54:57] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:54:57] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:01] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:01] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:01] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:01] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:08] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:08] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:08] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:08] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:12] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:12] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:12] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:12] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:17] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:17] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:17] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:17] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:22] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:22] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:22] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:22] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:27] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:27] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:27] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:27] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:32] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:32] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:32] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:32] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:37] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:37] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:37] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:37] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:47] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:47] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:47] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:47] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:55:57] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:55:57] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:55:57] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:55:57] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:56:08] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 17:56:08] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:56:08] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 17:56:08] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 17:56:28] [LOG] Nouvelle sauvegarde créée avec le nom suivant :BM_2024-05-09_17_54_05_oK7GaztnFk2rq3JE.zip
+[2024-05-09 17:56:28] [LOG] Process (backup) finished successfully via ajax.php
+[2024-05-09 18:58:07] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 18:58:07] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-09 18:58:07] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-09 18:58:07] [ERROR] Gestionnaire d'erreurs: init#01|2
+[2024-05-09 19:01:36] [LOG] Création de la sauvegarde
+[2024-05-09 19:01:36] [LOG] Trouvé(s) 7068 fichiers à sauvegarder.
+[2024-05-09 19:01:38] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:01:38] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:01:38] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:01:38] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:01:45] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:01:45] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:01:45] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:01:45] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:01:47] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:01:47] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:01:47] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:01:47] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:01:51] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:01:51] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:01:51] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:01:51] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:01:58] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:01:58] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:01:58] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:01:58] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:03] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:03] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:03] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:03] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:07] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:07] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:07] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:07] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:13] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:13] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:13] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:13] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:17] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:17] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:17] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:17] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:23] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:23] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:23] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:23] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:29] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:29] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:29] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:29] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:37] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:37] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:37] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:37] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:46] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:46] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:46] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:46] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:02:58] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle n’a pas été enregistrée dans le journal de restauration)
+[2024-05-09 19:02:58] [ERROR] Message d’erreur : filesize(): stat failed for /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups//home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-Yb9wiHgqeI/backups/BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:02:58] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/zipper/src/zip.php|706
+[2024-05-09 19:02:58] [ERROR] Gestionnaire d'erreurs: ajax#01|2
+[2024-05-09 19:03:18] [LOG] Nouvelle sauvegarde créée avec le nom suivant :BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[2024-05-09 19:03:18] [LOG] Process (backup) finished successfully via ajax.php
+[2024-05-09 19:04:25] [ERROR] Une erreur est survenue avant la requête d’arrêt (mais elle a été enregistrée dans le journal de sauvegarde/restauration)
+[2024-05-09 19:04:25] [ERROR] Message d’erreur : is_readable(): open_basedir restriction in effect. File(/home/vol11_7/infinityfree.com/if0_36385627/htdocs/..) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/usr/share/pear:/home/vol11_7/infinityfree.com/if0_36385627/htdocs)
+[2024-05-09 19:04:25] [ERROR] Fichier/ligne d’erreur : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/plugins/backup-backup/includes/scanner/files.php|333
+[2024-05-09 19:04:25] [ERROR] Gestionnaire d'erreurs: init#01|2

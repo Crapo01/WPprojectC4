@@ -1,0 +1,229 @@
+[WARN] [2024-05-09 19:00:54] PHP CLI est désactivé manuellement, l’extension omettra toutes les étapes PHP CLI.
+[WARN] [2024-05-09 19:00:54] Le fichier PHP CLI ne peut pas être exécuté pour une raison inconnue.
+[STEP] [2024-05-09 19:00:54] Initialisation de la sauvegarde…
+[INFO] [2024-05-09 19:00:54] Version de sauvegarde et migration :1.4.5
+[INFO] [2024-05-09 19:00:54] Site qui sera sauvegardé :https://sitechocopapluc.rf.gd
+[INFO] [2024-05-09 19:00:54] Version PHP : 8.2.16
+[INFO] [2024-05-09 19:00:54] Version WP :6.5.2
+[INFO] [2024-05-09 19:00:54] Version MySQL :10.4.17
+[INFO] [2024-05-09 19:00:54] Longueur maximale de MySQL :3145728
+[INFO] [2024-05-09 19:00:54] Serveur : Apache
+[INFO] [2024-05-09 19:00:54] Temps d’exécution maximum (en secondes) : 60
+[INFO] [2024-05-09 19:00:54] Limite de mémoire (serveur): 512M
+[INFO] [2024-05-09 19:00:54] Limite de mémoire (wp-config): 40M
+[INFO] [2024-05-09 19:00:54] Limite de mémoire (admin wp-config): 512M
+[INFO] [2024-05-09 19:00:54] Nombre maximum de lignes par requête (ce site) : 2000
+[INFO] [2024-05-09 19:00:54] Vérifier si le répertoire de sauvegarde est inscriptible…
+[INFO] [2024-05-09 19:00:54] Initialisation du gestionnaire d’erreurs personnalisé
+[SUCCESS] [2024-05-09 19:00:54] Ouais c’est inscriptible…
+[STEP] [2024-05-09 19:00:54] Analyse des fichiers…
+[WARN] [2024-05-09 19:01:00] Suppression du fichier de sauvegarde (en raison des règles de chemin) : /home/vol11_7/infinityfree.com/if0_36385627/htdocs/wp-content/backup-migration-config.php
+[INFO] [2024-05-09 19:01:00] Taille totale des fichiers exclus: 2259 octets
+[VERBOSE] [2024-05-09 19:01:00] Total size of excluded files (bytes): 2259
+[STEP] [2024-05-09 19:01:00] Vérification de l’espace libre, réservation…
+[INFO] [2024-05-09 19:01:00] Nécessite au moins 228779125 octets. [218.18 MB]
+[INFO] [2024-05-09 19:01:00] La fonction d’espace libre sur le disque est désactivée par l’hébergement.
+[INFO] [2024-05-09 19:01:00] Utiliser un fichier factice pour vérifier l’espace libre (cela peut prendre un certain temps).
+[SUCCESS] [2024-05-09 19:01:36] Confirmé, il y a suffisamment d’espace, vérifié :228779125 octets
+[INFO] [2024-05-09 19:01:36] Analyse terminée - Trouvé7068 fichiers…
+[SUCCESS] [2024-05-09 19:01:36] Sauvegarde initialisée…
+[STEP] [2024-05-09 19:01:36] Initialisation du système d’archivage…
+[SUCCESS] [2024-05-09 19:01:36] Système d’archivage initialisé…
+[STEP] [2024-05-09 19:01:36] Préparation de la carte des fichiers…
+[SUCCESS] [2024-05-09 19:01:36] Fichiers préparés.
+[INFO] [2024-05-09 19:01:36] Démarrage da la procédure de compression…
+[STEP] [2024-05-09 19:01:36] Calcul de la mémoire intelligente…
+[INFO] [2024-05-09 19:01:36] Il y a 512 Mo de mémoire utile
+[INFO] [2024-05-09 19:01:36] Limite de mémoire WordPress : 512 Mo
+[SUCCESS] [2024-05-09 19:01:36] Définir la limite de sécurité à 115 Mo
+[INFO] [2024-05-09 19:01:36] ZipArchive is available this process should use ZipArchive
+[INFO] [2024-05-09 19:01:36] Réglage hérité : utilisation de modules par défaut en fonction du serveur utilisateur/utilisatrice
+[STEP] [2024-05-09 19:01:36] Création d'une sauvegarde de la base de données (utilisation du moteur v3, nécessite au moins la version v1.2.2 pour restaurer)
+[INFO] [2024-05-09 19:01:36] Itération de la base de données…
+[INFO] [2024-05-09 19:01:36] Memory usage after initialization: 69.57 MB
+[VERBOSE] [2024-05-09 19:01:36] Exporting database via zip.php
+[INFO] [2024-05-09 19:01:36] Scan found 69 tables (1851 rows), estimated total size: 5.96 MB.
+[INFO] [2024-05-09 19:01:36] Memory usage after getting table names: 69.61 MB 
+[INFO] [2024-05-09 19:01:36] Getting table recipes...
+[INFO] [2024-05-09 19:01:36] Table recipes have been exported.
+[INFO] [2024-05-09 19:01:36] Memory usage after loading recipes: 69.68 MB 
+[INFO] [2024-05-09 19:01:36] Saving recipes...
+[INFO] [2024-05-09 19:01:36] Recipes saved.
+[INFO] [2024-05-09 19:01:36] Memory usage after recipe off-load: 69.62 MB
+[INFO] [2024-05-09 19:01:36] Exporting table data...
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_commentmeta (1/69, 0.05 MB)
+[INFO] [2024-05-09 19:01:36] Table lwp_commentmeta is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_comments (2/69, 0.09 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_comments finished (0.00136s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_links (3/69, 0.03 MB)
+[INFO] [2024-05-09 19:01:36] Table lwp_links is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_options (4/69, 0.22 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_options finished (0.00680s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_postmeta (5/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_postmeta finished (0.00104s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_posts (6/69, 0.08 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_posts finished (0.00162s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_term_relationships (7/69, 0.03 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_term_relationships finished (0.00086s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_term_taxonomy (8/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_term_taxonomy finished (0.00095s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_termmeta (9/69, 0.05 MB)
+[INFO] [2024-05-09 19:01:36] Table lwp_termmeta is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_terms (10/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_terms finished (0.00091s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_usermeta (11/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_usermeta finished (0.00112s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_users (12/69, 0.06 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_users finished (0.00100s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_yoast_indexable (13/69, 0.11 MB)
+[INFO] [2024-05-09 19:01:36] Table lwp_yoast_indexable is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_yoast_indexable_hierarchy (14/69, 0.06 MB)
+[INFO] [2024-05-09 19:01:36] Table lwp_yoast_indexable_hierarchy is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_yoast_migrations (15/69, 0.03 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: lwp_yoast_migrations finished (0.00095s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_yoast_primary_term (16/69, 0.05 MB)
+[INFO] [2024-05-09 19:01:36] Table lwp_yoast_primary_term is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: lwp_yoast_seo_links (17/69, 0.05 MB)
+[INFO] [2024-05-09 19:01:36] Table lwp_yoast_seo_links is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_actionscheduler_actions (18/69, 0.02 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_actionscheduler_actions finished (0.00132s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_actionscheduler_claims (19/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_actionscheduler_claims is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_actionscheduler_groups (20/69, 0.01 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_actionscheduler_groups finished (0.00128s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_actionscheduler_logs (21/69, 0.00 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_actionscheduler_logs finished (0.00119s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_commentmeta (22/69, 0.05 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_commentmeta is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_comments (23/69, 0.09 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_comments finished (0.00139s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_e_events (24/69, 0.03 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_e_events is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_frm_fields (25/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_frm_fields finished (0.00192s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_frm_forms (26/69, 0.03 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_frm_forms finished (0.00152s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_frm_item_metas (27/69, 0.06 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_frm_item_metas is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_frm_items (28/69, 0.11 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_frm_items is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_links (29/69, 0.03 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_links is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_options (30/69, 2.47 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_options finished (0.20504s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_postmeta (31/69, 0.23 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_postmeta finished (0.02259s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_posts (32/69, 0.22 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_posts finished (0.01963s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_term_relationships (33/69, 0.03 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_term_relationships finished (0.00113s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_term_taxonomy (34/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_term_taxonomy finished (0.00112s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_termmeta (35/69, 0.05 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_termmeta is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_terms (36/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_terms finished (0.00114s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_usermeta (37/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_usermeta finished (0.00138s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_users (38/69, 0.06 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_users finished (0.00095s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza (39/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_admin_notices (40/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza_admin_notices is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_circles (41/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza_circles is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_image_overlays (42/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza_image_overlays is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_maps (43/69, 0.02 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_wpgmza_maps finished (0.00116s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_point_labels (44/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza_point_labels is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_polygon (45/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza_polygon is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_polylines (46/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza_polylines is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_wpgmza_rectangles (47/69, 0.02 MB)
+[INFO] [2024-05-09 19:01:36] Table prefluc_wpgmza_rectangles is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_yoast_indexable (48/69, 0.11 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_yoast_indexable finished (0.00307s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_yoast_indexable_hierarchy (49/69, 0.06 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_yoast_indexable_hierarchy finished (0.00121s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_yoast_migrations (50/69, 0.03 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_yoast_migrations finished (0.00106s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_yoast_primary_term (51/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_yoast_primary_term finished (0.00111s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: prefluc_yoast_seo_links (52/69, 0.05 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: prefluc_yoast_seo_links finished (0.00141s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_commentmeta (53/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table wpbw_commentmeta is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_comments (54/69, 0.01 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_comments finished (0.00110s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_links (55/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table wpbw_links is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_options (56/69, 0.60 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_options finished (0.08293s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_postmeta (57/69, 0.01 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_postmeta finished (0.00154s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_posts (58/69, 0.02 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_posts finished (0.00214s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_term_relationships (59/69, 0.00 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_term_relationships finished (0.00130s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_term_taxonomy (60/69, 0.00 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_term_taxonomy finished (0.00123s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_termmeta (61/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table wpbw_termmeta is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_terms (62/69, 0.01 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_terms finished (0.00111s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_usermeta (63/69, 0.01 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_usermeta finished (0.00133s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_users (64/69, 0.01 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_users finished (0.00119s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_yoast_indexable (65/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table wpbw_yoast_indexable is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_yoast_indexable_hierarchy (66/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table wpbw_yoast_indexable_hierarchy is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_yoast_migrations (67/69, 0.01 MB)
+[SUCCESS] [2024-05-09 19:01:36] Table export for: wpbw_yoast_migrations finished (0.00112s)
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_yoast_primary_term (68/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table wpbw_yoast_primary_term is empty, saving only recipe.
+[STEP] [2024-05-09 19:01:36] Getting data of table: wpbw_yoast_seo_links (69/69, 0.00 MB)
+[INFO] [2024-05-09 19:01:36] Table wpbw_yoast_seo_links is empty, saving only recipe.
+[INFO] [2024-05-09 19:01:36] Table data exported.
+[INFO] [2024-05-09 19:01:36] Memory usage after data export: 69.60 MB
+[INFO] [2024-05-09 19:01:36] Entire process took: 0.4888 s
+[SUCCESS] [2024-05-09 19:01:36] Sauvegarde de base de données terminée
+[STEP] [2024-05-09 19:01:36] Faire une archive
+[INFO] [2024-05-09 19:01:36] Compression…
+[WARN] [2024-05-09 19:01:36] La sauvegarde s’exécutera en tant que demande unique, peut être instable...
+[INFO] [2024-05-09 19:01:36] Using ZipArchive extension for this backup process.
+[STEP] [2024-05-09 19:01:36] Ajout du ou des fichiers SQL de la base de données au fichier de sauvegarde.
+[VERBOSE] [2024-05-09 19:01:36] Database files in total found: 69
+[SUCCESS] [2024-05-09 19:01:36] Base de données ajoutée avec succès à la sauvegarde.
+[STEP] [2024-05-09 19:01:36] Réalisation de la sauvegarde des fichiers du site...
+[INFO] [2024-05-09 19:01:36] Les portions contiennent 500 fichiers.
+[INFO] [2024-05-09 19:01:38] Étape :500/7068
+[INFO] [2024-05-09 19:01:45] Étape :1000/7068
+[INFO] [2024-05-09 19:01:47] Étape :1500/7068
+[INFO] [2024-05-09 19:01:51] Étape :2000/7068
+[INFO] [2024-05-09 19:01:58] Étape :2500/7068
+[INFO] [2024-05-09 19:02:03] Étape :3000/7068
+[INFO] [2024-05-09 19:02:07] Étape :3500/7068
+[INFO] [2024-05-09 19:02:13] Étape :4000/7068
+[INFO] [2024-05-09 19:02:17] Étape :4500/7068
+[INFO] [2024-05-09 19:02:23] Étape :5000/7068
+[INFO] [2024-05-09 19:02:29] Étape :5500/7068
+[INFO] [2024-05-09 19:02:37] Étape :6000/7068
+[INFO] [2024-05-09 19:02:46] Étape :6500/7068
+[INFO] [2024-05-09 19:02:58] Étape :7000/7068
+[INFO] [2024-05-09 19:03:08] Étape :7068/7068
+[SUCCESS] [2024-05-09 19:03:08] Compressé 7068 fichiers
+[INFO] [2024-05-09 19:03:08] Archivage de7068fichiers ont pris :92.52s
+[STEP] [2024-05-09 19:03:08] Finalisation de la sauvegarde
+[INFO] [2024-05-09 19:03:08] Génération du fichier manifeste et sauvegarde du journal en direct actuel...
+[INFO] [2024-05-09 19:03:08] Ajout du manifeste…
+[SUCCESS] [2024-05-09 19:03:18] Fichier manifeste et journaux ajoutés à la sauvegarde. Fichiers temporaires supprimés.
+[STEP] [2024-05-09 19:03:18] Fermeture des fichiers et des archives
+[SUCCESS] [2024-05-09 19:03:18] Nettoyage terminé, sauvegarde complétée.
+[SUCCESS] [2024-05-09 19:03:18] Nouvelle sauvegarde créée avec le nom suivant :BM_2024-05-09_19_00_54_Yc1rMt2Rs0wuOnmP.zip
+[END-CODE] [2024-05-09 19:03:18] #001
